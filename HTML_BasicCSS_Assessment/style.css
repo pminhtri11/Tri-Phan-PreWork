@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  line-height: 1.5;
+  text-transform: uppercase;
+  background-color: rgb(0, 162, 255);
+}
+
+#fdm {
+  font-weight: bold;
+  color:white;
+  margin-bottom: 200px;
+}
+
+#bringing{
+  text-align: center;
+}
+
+#digital{ 
+  text-align: center;
+  padding: 15px;
+  color: white;
+  font-size: 100px;
+  font-weight: bold;
+}
+
+#free{
+  border: 1px white solid;
+  border-color: white;
+  color:white;
+  text-align: center;
+  margin-left: 45%;
+  margin-right: 45%;
+}
