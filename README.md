@@ -7,8 +7,8 @@
 3.  Bootstrap Basic  
 4.  Module-1_Assessment  
     a.  A responsive Portfolio Template using HTML, CSS, and Bootstrap  
-    b.  
+    b.  Live Page: https://pminhtri11.github.io/Tri-Phan-PreWork/Module-1_Assessment
 5.  JavaScript Basic  
 6.  Module-2_Assessment  
     a.  A WordGuessing Game base on Pokemon First Generation.  
-    b.  
+    b.  Live Page: https://pminhtri11.github.io/Tri-Phan-PreWork/Module-2_Assessment
