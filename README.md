@@ -14,4 +14,5 @@
 5.  JavaScript Basic  
 6.  Module-2_Assessment  
     a.  A WordGuessing Game base on Pokemon First Generation.  
-    b.  Live Page: https://pminhtri11.github.io/Tri-Phan-PreWork/Module-2_Assessment
+    b.  Live Page: https://pminhtri11.github.io/Tri-Phan-PreWork/Module-2_Assessment  
+    c.  Note: Sometime the Css and JS file just wont load in the Github Page, not entirely sure why that is the case.
