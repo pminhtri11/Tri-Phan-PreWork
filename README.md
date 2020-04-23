@@ -3,8 +3,11 @@
 # PreWork Assignments for Dev10 program.
 ### Including:
 1.  HTML Basic  
+    a.  https://pminhtri11.github.io/Tri-Phan-PreWork/HTML_BasicCSS_Assessment
 2.  CSS Basic  
+    a.  https://pminhtri11.github.io/Tri-Phan-PreWork/CSS_Assessment
 3.  Bootstrap Basic  
+    a.  https://pminhtri11.github.io/Tri-Phan-PreWork/Bootstrap_Assessment
 4.  Module-1_Assessment  
     a.  A responsive Portfolio Template using HTML, CSS, and Bootstrap  
     b.  Live Page: https://pminhtri11.github.io/Tri-Phan-PreWork/Module-1_Assessment
