@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <script defer src="/Assets/javascript/java.js"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Word Guessing Game</title>
+    <link href="https://fonts.googleapis.com/css?family=Pacifico&display=swap" rel="stylesheet">
+    <link href="/Assets/css/css.css" rel="stylesheet" type="text/css">
+</head>
+
+<body onload="myFunction()">
+    <header>
+        <h1>Gotta Catch Them All, POKEMON!</h1>
+    </header>
+
+    <!--Button to Start the program and reset it if needed.-->
+    <button class="button" onclick="resetFunction()">Click Here to Reset.</button>
+
+    <div class="picture">
+        <img src="Assets/images/Wallpaper.jpg" alt="Pikachu">
+    </div>
+    <div class="container1">
+        <div id="emptyWord"></div>
+    </div>
+    <div class="container2">
+        <div id="lifeLeft"></div>
+        <p id="lifeRemain">Life Remains</p>
+    </div>
+
+    <div class="container3">
+        <div id="wrongWord"></div>
+        <P id="wrong">Incorrect Choice</p>
+    </div>
+
+    <div class="container4">
+        <div id="pokemonCapture"> </div>
+        <p id="capture">Pokemon Mastered</p>
+    </div>
+
+</body>
+
+</html>
