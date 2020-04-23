@@ -1,0 +1,46 @@
+body{
+    background-image: url("../images/pattern.png");
+}
+
+.navbar {
+    padding-bottom:0;
+}
+
+html{
+    position: relative;
+    min-height: 100%;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;    
+}
+.container {
+    max-width:960px;
+}
+
+/* Index */
+.block {
+    background-color: #ffffff;
+    padding: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;     
+}
+
+#about-image{
+    float: left;
+    margin-right: 10px;
+}
+
+.block-header {
+    color: #4aaaa5;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-weight: bold;
+}
+
+/* Portfolio */
+.card{
+    margin: 20px;
+}
+.card-body{
+    padding: 0;
+}
+.card-title{
+    padding: 10px;
+}

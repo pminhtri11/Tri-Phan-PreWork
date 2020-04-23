@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  line-height: 1.5;
+  text-transform: uppercase;
+  background-color: rgb(0, 162, 255);
+}
+
+.jumbotron{
+  background-color: rgb(0, 162, 255);
+    height: 800px;
+}
+
+.fontsize{
+  font-size: 100px;
+}
+
+
+
